@@ -1,6 +1,10 @@
 # aplikasi_kontak_uas
 
-A new Flutter project.
+<H4>
+  Nama   : I Komang Werdagia Cahyadi Putra Kencana
+  NIM    : 230010015
+  Kelas  : VA231
+</H4>
 
 ## Getting Started
 
