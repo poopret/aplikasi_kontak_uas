@@ -6,16 +6,15 @@
   Kelas  : VA231
 </H4>
 
-## Getting Started
+## Hasil Run
+<h1>App terinstall di hp</h1>
+<img width="698" height="1600" alt="WhatsApp Image 2026-07-11 at 1 38 46 PM (4)" src="https://github.com/user-attachments/assets/12b5caaf-24dc-4cd7-a48c-688834a8056d" />
+##
+<h1>Inputan pertama</h1>
+<img width="698" height="1600" alt="WhatsApp Image 2026-07-11 at 1 38 46 PM" src="https://github.com/user-attachments/assets/3a94034e-4ce6-489a-b801-803115483d42" />
+<h1>Inputan Kedua</h1>
+<img width="698" height="1600" alt="WhatsApp Image 2026-07-11 at 1 38 46 PM (3)" src="https://github.com/user-attachments/assets/9a3920e3-af55-419f-9e80-7cb4d75d0da4" />
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
