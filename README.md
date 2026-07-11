@@ -15,6 +15,8 @@
 <h1>Inputan Kedua</h1>
 <img width="698" height="1600" alt="WhatsApp Image 2026-07-11 at 1 38 46 PM (3)" src="https://github.com/user-attachments/assets/9a3920e3-af55-419f-9e80-7cb4d75d0da4" />
 
+<h4>Dan ketika app di tutup dan di buka kembali semua tetap tersimpan dan tidak hilang </h4>
+
 
 
 
